@@ -1,4 +1,4 @@
-#RANDOMLY MEME GENERATOR APP
+RANDOMLY MEME GENERATOR APP
 * Learned
 1. Understood how useState() and useEffect() hooks used in React
 2. Understood how to pass data from one component to another
